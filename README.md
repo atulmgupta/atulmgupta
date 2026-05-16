@@ -1,42 +1,104 @@
-<!-- 🌊 Animated wave header (capsule-render) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30&height=200&section=header&text=Atul%20Gupta&fontSize=58&fontAlignY=40&fontColor=ffffff&animation=fadeIn" alt="header" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  ✨  HERO                                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">Full-stack engineer · Platform &amp; AI tinkerer · Perpetual learner</h3>
+<a href="https://github.com/atulmgupta">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30&height=240&section=header&text=Atul%20Gupta&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn" alt="banner" />
+</a>
 
-<!-- ⌨️ Animated typing tagline -->
+<h3 align="center">⚡ Full-stack engineer &nbsp;·&nbsp; 🤖 Platform &amp; AI tinkerer &nbsp;·&nbsp; 🌱 Perpetual learner</h3>
+
 <p align="center">
   <a href="https://github.com/atulmgupta">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+TeslaSync+%E2%9A%A1+powered+by+Helix+AI;Turning+messy+telemetry+into+calm+typed+APIs;LLM+tool-use+%2B+pgvector+%2B+SSE+streaming;Go+%2B+TypeScript+%2B+Postgres+%2B+Docker" alt="typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+TeslaSync+%E2%9A%A1+powered+by+Helix+AI;Turning+messy+telemetry+into+calm+typed+APIs;LLM+tool-use+%2B+pgvector+%2B+SSE+streaming;Go+%2B+TypeScript+%2B+Postgres+%2B+Docker" alt="typing" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/atulmgupta?tab=followers"><img src="https://img.shields.io/github/followers/atulmgupta?label=Followers&style=for-the-badge&logo=github&color=0ea5e9" alt="followers" /></a>
-  <img src="https://img.shields.io/github/stars/atulmgupta?label=Stars&style=for-the-badge&logo=github&color=eab308" alt="stars" />
-  <img src="https://komarev.com/ghpvc/?username=atulmgupta&label=Profile%20views&style=for-the-badge&color=22c55e" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ef4444?style=for-the-badge" alt="open source" />
+  <a href="https://github.com/atulmgupta?tab=followers"><img src="https://img.shields.io/github/followers/atulmgupta?label=Followers&style=for-the-badge&logo=github&color=0ea5e9&labelColor=18181b" alt="followers" /></a>
+  <img src="https://img.shields.io/github/stars/atulmgupta?label=Stars&style=for-the-badge&logo=github&color=eab308&labelColor=18181b" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=atulmgupta&label=Profile%20views&style=for-the-badge&color=22c55e&labelColor=18181b" alt="profile views" />
+  <a href="https://www.linkedin.com/in/atulmgupta/"><img src="https://img.shields.io/badge/Open%20to%20chat-%E2%9C%89-ef4444?style=for-the-badge&labelColor=18181b" alt="contact" /></a>
 </p>
 
----
+<br />
 
-### 🧠 About me
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  🧠  ABOUT ME                                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🧠 About me
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
-- 🔭 Currently building **TeslaSync** — a self-hosted Tesla telemetry + automation platform with an AI co-pilot called **Helix** 🪄
-- 🛠️ I like turning messy real-world data into calm, well-typed APIs and crisp UIs
-- 🌱 Always learning — lately deep into **LLM tool-use orchestration**, **pgvector**, and **SSE streaming UX**
-- 💬 Ask me about **Go**, **TypeScript**, **Postgres**, **MQTT**, **Docker**, or **AI app design**
+```typescript
+const atul = {
+  role:    "Full-stack engineer",
+  current: "TeslaSync · Helix AI co-pilot",
+  loves:   ["clean APIs", "tiny diffs", "fast feedback loops"],
+  stack: {
+    backend:  ["Go", "Node", "Postgres", "MQTT"],
+    frontend: ["React", "TypeScript", "Tailwind"],
+    ai:       ["Ollama", "Azure AI", "pgvector"],
+    infra:    ["Docker", "Kubernetes", "Helm", "Azure"],
+  },
+  motto:   "Make it work, make it right, make it fast.",
+};
+```
+
+- 🔭 Currently building **TeslaSync** — a self-hosted Tesla telemetry + automation platform
+- 🪄 Shipping **Helix** — the conversational AI co-pilot that powers it
+- 🌱 Deep-diving into **LLM tool-use orchestration**, **pgvector**, and **SSE streaming UX**
+- 💬 Happy to chat about **Go**, **TypeScript**, **Postgres**, **MQTT**, **Docker**, or **AI app design**
 - ⚡ Fun fact: I believe a good README is worth more than ten stand-ups
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding" />
+</td>
+</tr>
+</table>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  🚀  FEATURED PROJECTS                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ TeslaSync
+
+> Self-hosted Tesla telemetry + automation platform
+
+- 📡 Real-time MQTT ingest from Tesla vehicles
+- 📊 Time-series storage in Postgres + **pgvector**
+- 🤖 **Helix** — chat over your driving data
+- 🐳 One-command Docker / Helm deployment
+- ☁️ Optional Azure AI Foundry provider
+
+`Go` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Postgres` &nbsp;·&nbsp; `MQTT` &nbsp;·&nbsp; `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🪄 Helix AI
+
+> Conversational layer that makes TeslaSync chatty
+
+- 🛠️ LLM **tool-use** orchestration with streaming
+- 🌊 SSE delivery for instant token-by-token UX
+- 🔌 Provider-agnostic — Azure AI, Ollama, OpenAI
+- 🧪 Deterministic tool-call **replay** for tests
+- 🎨 Universal *Ask Helix* CTA across the UI
+
+`TypeScript` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Azure AI` &nbsp;·&nbsp; `pgvector` &nbsp;·&nbsp; `SSE`
 
 </td>
 </tr>
@@ -44,7 +106,11 @@
 
 ---
 
-### 🧰 Tech I reach for
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  🧰  TECH STACK                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🧰 Tech I reach for
 
 **Languages**
 
@@ -78,14 +144,18 @@
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure%20AI](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure%20AI%20Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-### 📊 GitHub in numbers
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  📊  GITHUB STATS                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub by the numbers
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atulmgupta&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600&theme=tokyonight" alt="github stats" />
@@ -95,14 +165,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmgupta&layout=compact&hide_border=true&langs_count=8&cache_seconds=21600&theme=tokyonight" alt="top languages" />
 </p>
 
-<!-- 📈 Animated contribution-activity graph -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atulmgupta&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulmgupta&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
 
-### 🏆 Trophies
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  🏆  TROPHIES                                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=atulmgupta&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
@@ -110,8 +187,23 @@
 
 ---
 
-<!-- 🐍 Animated contribution snake — generated daily by .github/workflows/snake.yml -->
-### 🐍 Watch a snake eat my contributions
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  💭  DEV QUOTE                                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 💭 Dev quote of the day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  🐍  SNAKE                                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Watch a snake eat my contributions
 
 <p align="center">
   <picture>
@@ -123,17 +215,22 @@
 
 ---
 
-### 🌐 Where to find me
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  🌐  CONNECT                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🌐 Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atulmgupta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  &nbsp;
   <a href="https://x.com/atulmgupta" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
+  &nbsp;
   <a href="https://github.com/atulmgupta" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
----
+<br />
 
-<!-- 🌊 Animated wave footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30&height=120&section=footer&animation=fadeIn" alt="footer" />
 </p>
