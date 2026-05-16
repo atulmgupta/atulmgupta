@@ -1,0 +1,41 @@
+name: Generate Snake
+
+# Daily regeneration of the animated contributions-grid snake SVG.
+# The output lands on the `output` branch and is referenced from
+# README.md via raw.githubusercontent.com.
+
+on:
+  schedule:
+    # Run once a day at 00:00 UTC.
+    - cron: "0 0 * * *"
+  # Allow manual trigger from the Actions tab.
+  workflow_dispatch:
+  # Re-render on every push to main so the snake stays fresh.
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake SVG (light + dark palettes)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to `output` branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
