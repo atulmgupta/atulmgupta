@@ -1,12 +1,14 @@
 <!-- 🌊 Animated wave header (capsule-render) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Atul%20Gupta&fontSize=44&fontAlignY=38&fontColor=ffffff&desc=Full-stack%20engineer%20%C2%B7%20Platform%20%26%20AI%20tinkerer%20%C2%B7%20Perpetual%20learner&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30&height=200&section=header&text=Atul%20Gupta&fontSize=58&fontAlignY=40&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
+
+<h3 align="center">Full-stack engineer · Platform &amp; AI tinkerer · Perpetual learner</h3>
 
 <!-- ⌨️ Animated typing tagline -->
 <p align="center">
   <a href="https://github.com/atulmgupta">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Building+TeslaSync+%E2%9A%A1+powered+by+Helix+AI;Turning+messy+telemetry+into+calm%2C+typed+APIs;LLM+tool-use+%C2%B7+pgvector+%C2%B7+SSE+streaming;Go+%E2%80%A2+TypeScript+%E2%80%A2+Postgres+%E2%80%A2+Docker;Make+it+work%2C+make+it+right%2C+make+it+fast." alt="typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+TeslaSync+%E2%9A%A1+powered+by+Helix+AI;Turning+messy+telemetry+into+calm+typed+APIs;LLM+tool-use+%2B+pgvector+%2B+SSE+streaming;Go+%2B+TypeScript+%2B+Postgres+%2B+Docker" alt="typing tagline" />
   </a>
 </p>
 
@@ -83,11 +85,11 @@
 ### 📊 GitHub in numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulmgupta&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atulmgupta&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600&theme=tokyonight" alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmgupta&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmgupta&layout=compact&hide_border=true&langs_count=8&cache_seconds=21600&theme=tokyonight" alt="top languages" />
 </p>
 
 <!-- 📈 Animated contribution-activity graph -->
