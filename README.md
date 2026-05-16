@@ -158,15 +158,17 @@ const atul = {
 ## 📊 GitHub by the numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulmgupta&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600&theme=tokyonight" alt="github stats" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-3%2C598-0ea5e9?style=for-the-badge&logo=git&logoColor=white&labelColor=18181b" alt="total contributions" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Years%20on%20GitHub-10%2B-bf91f3?style=for-the-badge&logo=github&logoColor=white&labelColor=18181b" alt="years on github" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Longest%20Streak-30%20days-eab308?style=for-the-badge&logo=fireship&logoColor=white&labelColor=18181b" alt="longest streak" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/atulmgupta?label=Followers&style=for-the-badge&logo=github&color=22c55e&labelColor=18181b" alt="followers" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmgupta&layout=compact&hide_border=true&langs_count=8&cache_seconds=21600&theme=tokyonight" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atulmgupta&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=atulmgupta&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
 </p>
 
 <p align="center">
