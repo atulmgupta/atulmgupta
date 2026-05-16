@@ -1,16 +1,34 @@
- <h1 align="center">Hi 👋, I'm Atul Gupta</h1>
- <h3 align="center">Full-stack engineer · platform & AI tinkerer · perpetual learner</h3>
+ <!-- 🌊 Animated wave header (capsule-render) -->
+ <p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30&height=200&section=header&t
+ext=Hi%20%F0%9F%91%8B%20I'm%20Atul%20Gupta&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full-stack%20engineer%20%C2%B7%20Platf
+orm%20%26%20AI%20tinkerer&descAlignY=58&descSize=18&animation=fadeIn" />
+ </p>
+ 
+ <!-- ⌨️ Animated typing tagline -->
+ <p align="center">
+   <a href="https://github.com/atulmgupta">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCen
+ter=true&width=720&lines=Building+TeslaSync+%E2%9A%A1+powered+by+Helix+AI;Turning+messy+telemetry+into+calm%2C+typed+APIs;LLM+too
+l-use+%C2%B7+pgvector+%C2%B7+SSE+streaming;Go+%E2%80%A2+TypeScript+%E2%80%A2+Postgres+%E2%80%A2+Docker;Make+it+work%2C+make+it+ri
+ght%2C+make+it+fast." />
+   </a>
+ </p>
  
  <p align="center">
    <a href="https://github.com/atulmgupta?tab=followers"><img 
-src="https://img.shields.io/github/followers/atulmgupta?label=Followers&style=flat&logo=github&color=0ea5e9" /></a>
-   <img src="https://img.shields.io/github/stars/atulmgupta?label=Stars&style=flat&logo=github&color=eab308" />
-   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ef4444?style=flat" />
+src="https://img.shields.io/github/followers/atulmgupta?label=Followers&style=for-the-badge&logo=github&color=0ea5e9" /></a>
+   <img src="https://img.shields.io/github/stars/atulmgupta?label=Stars&style=for-the-badge&logo=github&color=eab308" />
+   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ef4444?style=for-the-badge" />
  </p>
  
  ---
  
  ### 🧠 About me
+ 
+ <table>
+ <tr>
+ <td width="62%" valign="top">
  
  - 🔭 Currently building **TeslaSync** — a self-hosted Tesla telemetry + automation platform with an AI co-pilot called **Helix**
  🪄
@@ -18,6 +36,15 @@ src="https://img.shields.io/github/followers/atulmgupta?label=Followers&style=fl
  - 🌱 Always learning — lately deep into **LLM tool-use orchestration**, **pgvector**, and **SSE streaming UX**
  - 💬 Ask me about **Go**, **TypeScript**, **Postgres**, **MQTT**, **Docker**, or **AI app design**
  - ⚡ Fun fact: I believe a good README is worth more than ten stand-ups
+ 
+ </td>
+ <td width="38%" align="center" valign="middle">
+ 
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif" />
+ 
+ </td>
+ </tr>
+ </table>
  
  ---
  
@@ -53,28 +80,77 @@ src="https://img.shields.io/github/followers/atulmgupta?label=Followers&style=fl
  ### 📊 GitHub in numbers
  
  <p align="center">
-   <img height="165" src="https://github-readme-stats.vercel.app/api?username=atulmgupta&show_icons=true&hide_border=true&include
-_all_commits=true&count_private=true&theme=tokyonight" />
-   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmgupta&layout=compact&hide_border=tr
-ue&langs_count=8&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api?username=atulmgupta&show_icons=true&hide_border=true&include_all_commits=
+true&count_private=true&theme=tokyonight" />
  </p>
  
- > The two cards above are rendered by `github-readme-stats` and only appear once the README is **committed** — they do not 
-preview reliably in the GitHub editor. Click **Commit changes…** and then visit `github.com/atulmgupta` to see them live.
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmgupta&layout=compact&hide_border=true&langs_coun
+t=8&theme=tokyonight" />
+ </p>
+ 
+ <!-- 📈 Animated contribution-activity graph -->
+ <p align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulmgupta&bg_color=1a1b27&color=70a5fd&line=bf91f3&p
+oint=38bdae&area=true&hide_border=true" />
+ </p>
+ 
+ ---
+ 
+ ### 🏆 Trophies
+ 
+ <p align="center">
+   <img 
+src="https://github-profile-trophy.vercel.app/?username=atulmgupta&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+ </p>
+ 
+ ---
+ 
+ <!-- 🐍 Animated contribution snake — see "Setup notes" at the bottom -->
+ ### 🐍 Watch a snake eat my contributions
+ 
+ <p align="center">
+   <img src="https://raw.githubusercontent.com/atulmgupta/atulmgupta/output/github-contribution-grid-snake-dark.svg" />
+ </p>
  
  ---
  
  ### 🌐 Where to find me
  
- <p align="left">
+ <p align="center">
    <a href="https://www.linkedin.com/in/[your-linkedin]/" target="_blank"><img 
-src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="https://x.com/[your-handle]" target="_blank"><img 
-src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
-   <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" 
-/></a>
+src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+   <a href="mailto:[your-email]"><img 
+src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  </p>
  
  ---
  
- <sub align="center">"Make it work, make it right, make it fast — and write a test for each step."</sub>
+ <!-- 🌊 Animated wave footer -->
+ <p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30&height=120&section=footer&a
+nimation=fadeIn" />
+ </p>
+ 
+ <p align="center"><sub>"Make it work, make it right, make it fast — and write a test for each step."</sub></p>
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Setup notes — only one needs your action
+
+1. Snake animation (requires a one-time GitHub Action)
+
+The snake SVG won't render until you create this file in the SAME atulmgupta/atulmgupta repo at path .github/workflows/snake.yml:
+
+ name: Generate Snake
+ 
+ on:
+   schedule:
+     - cron: "0 */24 * * *"
+   workflow_dispatch:
+   push:
+     branches:
+       - main
+ 
